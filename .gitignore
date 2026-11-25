@@ -1,0 +1,10 @@
+*.rds
+logs/
+*.out
+sim_raw.csv
+suggestions.csv
+envs/
+.Rhistory
+.RData
+*.aux
+*.log

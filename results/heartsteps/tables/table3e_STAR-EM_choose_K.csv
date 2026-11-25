@@ -1,0 +1,4 @@
+K,heldout_loglik,insample_loglik,iterations,converged,seconds
+1,-17148.95,-17172.48,10,TRUE,25.1
+2,-17579.84,-17369.57,11,TRUE,55.4
+3,-17550.17,-17009.28,20,FALSE,111.4

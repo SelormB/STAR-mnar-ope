@@ -1,0 +1,5 @@
+delta,parameters,method,loglik,converged,iterations,seconds
+0,150,EM algorithm,-17541.003,TRUE,4,0.06
+0,150,Direct MLE (optim BFGS),-17541.003,TRUE,157,1.53
+-1,150,EM algorithm,-17541.003,TRUE,6,0.02
+-1,150,Direct MLE (optim BFGS),-17541.003,TRUE,178,2.05

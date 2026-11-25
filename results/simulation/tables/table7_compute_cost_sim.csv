@@ -1,0 +1,14 @@
+component,mean_seconds,max_seconds,peak_memory_mb
+"Nuisance forests (shared by IPW, RF-Impute, DR)",7.53,36.22,372.3
+kNN-MI: drawing 20 imputations,0.33,1.26,312.4
+EM: fitting the selection model (per tilt),0.35,2.06,216.5
+EM-MI: drawing 20 imputations,1.16,5.2,489.9
+STAR-EM (K = 1): EM fit + 5 bootstrap EM refits (per tilt),136.25,884.73,2522.2
+CC-WPDIS,0.68,2.45,184.4
+MAR-IPW,0.69,2.45,185.7
+RF-Impute (single),0.69,2.66,186.5
+kNN-MI: analysing M datasets,1.2,38.57,363
+STAR-EM: analysing M datasets,0.84,19.59,272.3
+EM-MI: analysing M datasets,1.19,38.57,363.6
+DR: fitted-Q + pseudo-reward (per tilt),16.82,210.06,398.3
+STAR-EM (K = 2): EM fit + 5 bootstrap EM refits (per tilt),874.16,3890.48,3940.9

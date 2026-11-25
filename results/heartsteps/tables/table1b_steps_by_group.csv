@@ -1,0 +1,4 @@
+group,n,mean_steps,median_steps
+sent,3405,248,78
+"available, not sent",2341,235,68
+unavailable,1399,416,200

@@ -1,0 +1,57 @@
+cond,scenario,policy,nsim,cover_bounds_point,cover_bounds_95ci,mean_width
+1,MAR (learned),always,1000,1,1,3598.44615933793
+1,MAR (learned),always-never,1000,1,1,7213.7022648328
+1,MAR (learned),capped,1000,1,1,3510.82097282807
+1,MAR (learned),capped-always,1000,1,1,7109.267132166
+1,MAR (learned),never,1000,0.991,1,3615.25610549487
+1,MAR (learned),tailored,1000,1,1,3558.39140254693
+1,MAR (learned),tailored-always,1000,1,1,7156.83756188486
+2,MNAR (learned),always,1000,1,1,3828.58954234489
+2,MNAR (learned),always-never,1000,1,1,7804.91015968989
+2,MNAR (learned),capped,1000,0.998,1,3746.55330721825
+2,MNAR (learned),capped-always,1000,1,1,7575.14284956314
+2,MNAR (learned),never,1000,0.955,1,3976.320617345
+2,MNAR (learned),tailored,1000,0.998,1,3803.86518610071
+2,MNAR (learned),tailored-always,1000,1,1,7632.4547284456
+3,"MNAR, action-dependent",always,1000,1,1,3942.93340622181
+3,"MNAR, action-dependent",always-never,1000,1,1,7605.76710176257
+3,"MNAR, action-dependent",capped,1000,0.998,1,3683.65799031988
+3,"MNAR, action-dependent",capped-always,1000,1,1,7626.59139654169
+3,"MNAR, action-dependent",never,1000,0.982,1,3662.83369554076
+3,"MNAR, action-dependent",tailored,1000,0.998,1,3750.46454705398
+3,"MNAR, action-dependent",tailored-always,1000,1,1,7693.39795327579
+4,"MNAR, wrong tilt shape",always,1000,1,1,3692.41613053284
+4,"MNAR, wrong tilt shape",always-never,1000,1,1,7525.07609285989
+4,"MNAR, wrong tilt shape",capped,1000,1,1,3614.87087714576
+4,"MNAR, wrong tilt shape",capped-always,1000,1,1,7307.2870076786
+4,"MNAR, wrong tilt shape",never,1000,0.984,1,3832.65996232705
+4,"MNAR, wrong tilt shape",tailored,1000,1,1,3692.72795587672
+4,"MNAR, wrong tilt shape",tailored-always,1000,1,1,7385.14408640956
+5,MAR (real patterns),always,1000,0.958,1,1100.80069252396
+5,MAR (real patterns),always-never,1000,1,1,2195.53769010278
+5,MAR (real patterns),capped,1000,0.927,1,1095.87666992434
+5,MAR (real patterns),capped-always,1000,1,1,2196.6773624483
+5,MAR (real patterns),never,1000,0.825,1,1094.73699757882
+5,MAR (real patterns),tailored,1000,0.914,1,1092.85044857415
+5,MAR (real patterns),tailored-always,1000,1,1,2193.65114109811
+6,MNAR (real patterns),always,1000,0.841,0.999,1084.8827214334
+6,MNAR (real patterns),always-never,1000,0.999,1,2206.39287715908
+6,MNAR (real patterns),capped,1000,0.814,0.998,1093.50180308155
+6,MNAR (real patterns),capped-always,1000,1,1,2178.38452451495
+6,MNAR (real patterns),never,1000,0.715,0.999,1121.51015572568
+6,MNAR (real patterns),tailored,1000,0.815,0.997,1114.90701910498
+6,MNAR (real patterns),tailored-always,1000,1,1,2199.78974053838
+7,"MNAR, hidden activity states",always,1000,1,1,3745.03647286278
+7,"MNAR, hidden activity states",always-never,1000,1,1,8249.21835199685
+7,"MNAR, hidden activity states",capped,1000,1,1,3750.62463710255
+7,"MNAR, hidden activity states",capped-always,1000,1,1,7495.66110996533
+7,"MNAR, hidden activity states",never,1000,0.974,1,4504.18187913407
+7,"MNAR, hidden activity states",tailored,1000,1,1,3982.2961166701
+7,"MNAR, hidden activity states",tailored-always,1000,1,1,7727.33258953288
+8,"MNAR, hidden activity states (N = 150)",always,300,1,1,3756.71667185637
+8,"MNAR, hidden activity states (N = 150)",always-never,300,1,1,8303.47693246153
+8,"MNAR, hidden activity states (N = 150)",capped,300,1,1,3799.05646421796
+8,"MNAR, hidden activity states (N = 150)",capped-always,300,1,1,7555.77313607433
+8,"MNAR, hidden activity states (N = 150)",never,300,1,1,4546.76026060516
+8,"MNAR, hidden activity states (N = 150)",tailored,300,1,1,4015.73596028518
+8,"MNAR, hidden activity states (N = 150)",tailored-always,300,1,1,7772.45263214155

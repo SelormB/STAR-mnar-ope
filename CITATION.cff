@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it as below."
+title: "STAR: A sensitivity-analysis framework for off-policy evaluation when mobile health rewards are missing not at random"
+authors:
+  - family-names: Buaka
+    given-names: Selorm
+    affiliation: University of Northern Colorado
+    orcid: "https://orcid.org/0009-0005-3991-4859"
+date-released: 2026-11-25
+repository-code: "https://github.com/SelormB/STAR-mnar-ope"
+license: MIT

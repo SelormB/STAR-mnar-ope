@@ -1,0 +1,9 @@
+cond,reps_done,scenario
+1,1000,MAR (learned)
+2,1000,MNAR (learned)
+3,1000,"MNAR, action-dependent"
+4,1000,"MNAR, wrong tilt shape"
+5,1000,MAR (real patterns)
+6,1000,MNAR (real patterns)
+7,1000,"MNAR, hidden activity states"
+8,300,"MNAR, hidden activity states (N = 150)"

@@ -1,0 +1,13 @@
+quantity,value
+participants,37
+episodes (days),1588
+decisions,7884
+available,0.803
+P(send | available),0.593
+rewards missing,0.094
+zeros among observed,0.307
+median steps (observed),93
+mean steps (observed),276.943
+skewness (observed),3.774
+P(missing | previous missing),0.668
+P(missing | previous observed),0.037

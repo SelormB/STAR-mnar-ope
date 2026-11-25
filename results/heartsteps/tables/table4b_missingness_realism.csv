@@ -1,0 +1,5 @@
+statistic,real,simulated
+missing_rate,0.094,0.094
+P_miss_after_miss,0.668,0.571
+P_miss_after_obs,0.037,0.045
+sd_of_person_rates,0.119,0.109

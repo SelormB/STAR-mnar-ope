@@ -1,0 +1,4 @@
+policy,est_MAR,CI_MAR,significant_at_MAR,tipping_delta
+always-never,140.3,"[-220.2, 470.1]",FALSE,
+tailored-always,-161.1,"[-391.9, 65.6]",FALSE,
+capped-always,-138.5,"[-331.2, 63.2]",FALSE,
